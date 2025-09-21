@@ -17,6 +17,20 @@ A language learning flash card application built with Python and Tkinter. Practi
 
 **Tech Stack:** Python, Tkinter, Pandas, CSV
 
+### 🍅 Pomodoro Timer
+**Location:** `pomodoro-timer/`
+
+A productivity timer application implementing the famous Pomodoro Technique with a cute Pikachu theme! Stay focused and productive with timed work sessions and breaks.
+
+**Features:**
+- Classic Pomodoro Technique (25min work + 5min break)
+- Long breaks after every 4 work sessions
+- Visual feedback with color-coded sessions
+- Progress tracking with checkmarks
+- Clean, motivating GUI with Pikachu
+
+**Tech Stack:** Python, Tkinter, Math
+
 ---
 
 ## 🚀 Getting Started
