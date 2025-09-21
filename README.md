@@ -57,7 +57,7 @@ Each project has its own directory with:
 
 ## 📞 Connect with Me
 
-Feel free to explore the projects and reach out if you have any questions or suggestions!
+Feel free to explore the projects and reach out if you have any questions or suggestions!.You can connect with me through my email:- yatharthshrirame@myyahoo.com
 
 ---
 
